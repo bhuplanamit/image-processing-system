@@ -18,7 +18,7 @@
 
 ## 1. Project Overview
 
-This Node.js project is a web service that handles CSV file uploads containing product information and image URLs. It processes these files asynchronously, performs image processing tasks, and provides status updates via webhooks. The system is designed to manage long-running tasks efficiently by using asynchronous processing and providing immediate feedback to clients. It includes robust error handling, data modeling, logging functionalities, and image processing capabilities.
+This image processing system is a web service that handles CSV file uploads containing product information and image URLs. It processes these files asynchronously, performs image processing tasks, and provides status updates via webhooks. The system is designed to manage long-running tasks efficiently by using asynchronous processing and providing immediate feedback to clients. It includes robust error handling, data modeling, logging functionalities, and image processing capabilities.
 
 ## 2. System Architecture
 
