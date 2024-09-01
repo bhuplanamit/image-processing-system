@@ -57,6 +57,8 @@ For detailed information on how asynchronous processing is handled in this proje
 
 API documentation is available via Swagger. To view the documentation, run the application and navigate to `/api-docs` in your browser.
 
+Postman Collection: https://api.postman.com/collections/22095411-e62bd787-17bc-4d42-8ca4-392475643b17?access_key=PMAT-01J6PW0WQBHRTYWMS75HEF1YEH
+
 ## Getting Started
 
 ### Prerequisites
@@ -72,23 +74,21 @@ To set up and run the Image Processing System, you need to have the following so
 
 1. **Navigate to the project directory**
 
-   cd image-processing-system
+   `cd image-processing-system`
 
 2. **Install Dependencies**
 
-   npm install
+   `npm install`
+ 
+3. Configure Environment Variables
+   `Open .env file add mysql username and password` 
+4. Run Database Migrations
 
-## Configure Environment Variables
-  Open .env file add your username and password 
+    `SOURCE ./migration/v1.sql;`
 
-  **Run Database Migrations**
+5. 5.**Start the Application**
 
-    SOURCE ./migration/v1.sql;
-
-
-3. **Start the Application**
-
-   npm run app
+   `npm run app`
 
 
 
