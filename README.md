@@ -57,7 +57,7 @@ For detailed information on how asynchronous processing is handled in this proje
 
 API documentation is available via Swagger. To view the documentation, run the application and navigate to `/api-docs` in your browser.
 
-Postman Collection: https://api.postman.com/collections/22095411-e62bd787-17bc-4d42-8ca4-392475643b17?access_key=PMAT-01J6PW0WQBHRTYWMS75HEF1YEH
+Postman Collection: https://www.postman.com/supply-geoscientist-19848876/workspace/amit-assignment-backend-epyns/collection/22095411-e62bd787-17bc-4d42-8ca4-392475643b17?action=share&source=copy-link&creator=22095411
 
 ## Getting Started
 
