@@ -32,9 +32,3 @@ This document provides an overview of the asynchronous processing implemented in
 - **Multer:** Manages file uploads.
 - **Axios:** Used for making HTTP requests during image processing.
 - **Sharp:** Used for image processing tasks.
-
-## Future Enhancements
-
-- Consider using a dedicated job queue like Bull or Agenda for more robust task management.
-- Implement retry logic for transient errors.
-
